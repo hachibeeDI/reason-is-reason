@@ -19,5 +19,6 @@
     "error" : "+101"
   },
   "namespace": true,
+  "reason": {"react-jsx": 2},
   "refmt": 3
 }

@@ -1,2 +1,1 @@
-Js.log(Messages.msg);
-Js.log(Sample.double(3, 4));
+Js.log(Daimin.dealCards());
